@@ -1,4 +1,4 @@
-package com.iss.core.question1;
+package com.iss.core;
 
 import java.util.Arrays;
 
